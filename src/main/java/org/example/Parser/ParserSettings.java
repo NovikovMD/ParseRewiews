@@ -1,4 +1,4 @@
-package org.example.Tyrism;
+package org.example.Parser;
 public abstract class ParserSettings {
     public static String BASE_URL;
     public static String PREFIX;

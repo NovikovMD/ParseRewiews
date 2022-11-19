@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.Tyrism.*;
+import org.example.Parser.*;
 
 import java.io.IOException;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package org.example.Tyrism;
+package org.example.Parser;
 
 public class MainSettings extends ParserSettings {
     public MainSettings(){

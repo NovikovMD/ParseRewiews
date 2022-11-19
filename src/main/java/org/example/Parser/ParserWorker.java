@@ -1,9 +1,8 @@
-package org.example.Tyrism;
+package org.example.Parser;
 
 import org.openqa.selenium.WebDriver;
 
 import java.io.IOException;
-import java.sql.Driver;
 import java.util.ArrayList;
 
 public class ParserWorker<T> {

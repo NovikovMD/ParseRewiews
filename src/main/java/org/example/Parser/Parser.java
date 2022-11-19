@@ -1,4 +1,4 @@
-package org.example.Tyrism;
+package org.example.Parser;
 
 import org.openqa.selenium.WebDriver;
 

@@ -1,4 +1,4 @@
-package org.example.Tyrism;
+package org.example.Parser;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
